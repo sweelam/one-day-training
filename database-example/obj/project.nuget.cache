@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V2iDlOfHYoUekj7lg6408WtNuRvG1NJKb4XTKOI7cV52Y1uZdFoAO0Qm7dBlbzOLV/8HkTiqEGwqpLgnHKQlqA==",
+  "dgSpecHash": "0LBJNlUQTMDYPjY5UDWx2UCRWKSsMOviIaxnwYU/zdtoma9HrXketa8C5UbfP3QNc/PNfyE6b8LWfKqLOjrYZw==",
   "success": true,
-  "projectFilePath": "/home/msweelam/Work/projects/csharp-projects/database-example/database-example.csproj",
+  "projectFilePath": "/home/msweelam/Work/Trainings/one-day-training/database-example/database-example.csproj",
   "expectedPackageFiles": [
     "/home/msweelam/.nuget/packages/bouncycastle.cryptography/2.3.1/bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "/home/msweelam/.nuget/packages/google.protobuf/3.26.1/google.protobuf.3.26.1.nupkg.sha512",

@@ -1614,11 +1614,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/msweelam/Work/projects/csharp-projects/database-example/database-example.csproj",
+      "projectUniqueName": "/home/msweelam/Work/Trainings/one-day-training/database-example/database-example.csproj",
       "projectName": "database-example",
-      "projectPath": "/home/msweelam/Work/projects/csharp-projects/database-example/database-example.csproj",
+      "projectPath": "/home/msweelam/Work/Trainings/one-day-training/database-example/database-example.csproj",
       "packagesPath": "/home/msweelam/.nuget/packages/",
-      "outputPath": "/home/msweelam/Work/projects/csharp-projects/database-example/obj/",
+      "outputPath": "/home/msweelam/Work/Trainings/one-day-training/database-example/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/msweelam/.nuget/NuGet/NuGet.Config"

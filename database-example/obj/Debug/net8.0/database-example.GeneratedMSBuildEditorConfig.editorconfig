@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = database_example
-build_property.ProjectDir = /home/msweelam/Work/projects/csharp-projects/database-example/
+build_property.ProjectDir = /home/msweelam/Work/Trainings/one-day-training/database-example/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
