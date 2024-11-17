@@ -1,0 +1,12 @@
+spring:
+    application:
+        name: software-arch
+    datasource:
+        url: jdbc:mysql://localhost:3306/sweprofile
+        username: sweelam
+        password: sweelam_224466
+    jpa:
+        hibernate:
+            ddl-auto: validate 
+        show-sql: true 
+
