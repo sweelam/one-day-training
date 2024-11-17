@@ -1,0 +1,70 @@
+# Gradle specific
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+.gradle/caches/
+.gradle/gradle.log
+.gradle/cache/
+/out/
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA specific
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Eclipse specific
+.project
+.classpath
+.c9/
+.settings/
+bin/
+
+# VS Code specific
+.vscode/
+
+# Mac OS specific
+.DS_Store
+
+# Log files
+*.log
+
+# Spring Boot specific
+spring-boot-devtools.properties
+.env
+
+# Application properties
+*.properties
+*.yml
+*.yaml
+
+# Test specific
+test-output/
+surefire-reports/
+jacoco.exec
+
+# Docker specific
+docker-compose.override.yml
+*.env
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+
+# IDE specific backup files
+*.orig
+*~
+*.sw?
+
+# Operating system generated files
+Thumbs.db
