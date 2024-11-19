@@ -16,17 +16,14 @@ import org.springframework.web.bind.annotation.PathVariable;
 public class UserInfoResource {
     private final InfoService infoService;
 
-
     public UserInfoResource(InfoService infoService) {
         this.infoService = infoService;
     }
-
 
     @GetMapping("/{info_id}")
     public ResponseEntity<MyInfoDto> getInfoById(@PathVariable("info_id") int infoId) {
         return ResponseEntity.ok(infoService.getUserInfo(infoId));
     }
-    
 
 }
 

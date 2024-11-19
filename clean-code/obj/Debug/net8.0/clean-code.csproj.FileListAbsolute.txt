@@ -1,0 +1,15 @@
+/home/msweelam/Work/Trainings/one-day-training/clean-code/obj/Debug/net8.0/clean-code.GeneratedMSBuildEditorConfig.editorconfig
+/home/msweelam/Work/Trainings/one-day-training/clean-code/obj/Debug/net8.0/clean-code.AssemblyInfoInputs.cache
+/home/msweelam/Work/Trainings/one-day-training/clean-code/obj/Debug/net8.0/clean-code.AssemblyInfo.cs
+/home/msweelam/Work/Trainings/one-day-training/clean-code/obj/Debug/net8.0/clean-code.csproj.CoreCompileInputs.cache
+/home/msweelam/Work/Trainings/one-day-training/clean-code/obj/Debug/net8.0/clean-code.sourcelink.json
+/home/msweelam/Work/Trainings/one-day-training/clean-code/bin/Debug/net8.0/clean-code
+/home/msweelam/Work/Trainings/one-day-training/clean-code/bin/Debug/net8.0/clean-code.deps.json
+/home/msweelam/Work/Trainings/one-day-training/clean-code/bin/Debug/net8.0/clean-code.runtimeconfig.json
+/home/msweelam/Work/Trainings/one-day-training/clean-code/bin/Debug/net8.0/clean-code.dll
+/home/msweelam/Work/Trainings/one-day-training/clean-code/bin/Debug/net8.0/clean-code.pdb
+/home/msweelam/Work/Trainings/one-day-training/clean-code/obj/Debug/net8.0/clean-code.dll
+/home/msweelam/Work/Trainings/one-day-training/clean-code/obj/Debug/net8.0/refint/clean-code.dll
+/home/msweelam/Work/Trainings/one-day-training/clean-code/obj/Debug/net8.0/clean-code.pdb
+/home/msweelam/Work/Trainings/one-day-training/clean-code/obj/Debug/net8.0/clean-code.genruntimeconfig.cache
+/home/msweelam/Work/Trainings/one-day-training/clean-code/obj/Debug/net8.0/ref/clean-code.dll
